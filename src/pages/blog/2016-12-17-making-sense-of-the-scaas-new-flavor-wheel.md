@@ -10,16 +10,10 @@ tags:
   - flavor
   - tasting
 ---
-
-
-<div class="table-wrapper">
-
-| dsdsdsssd |     |     |
-| --------- | --- | --- |
-| assaasas  |     |     |
-| assaasas  |     |     |</div>
-
-
+<div class="table-wrapper">| dsdsdsssd | sasa   | sasa  |
+| --------- | ------ | ----- |
+| assaasas  | sasa   | sasa  |
+| assaasas  | sasasa | ssasa |</div>
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
