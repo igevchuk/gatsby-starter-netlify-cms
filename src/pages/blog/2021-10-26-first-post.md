@@ -8,7 +8,9 @@ featuredimage: /img/image-20210820-110120-1-.png
 ---
 test
 
-<div class="table-wrapper">| 1   | 2   | 3   |
+
+
+| a   | b   | c   |
 | --- | --- | --- |
-| 4   | 5   | 6   |
-| 7   | 8   | 9   |</div>
+| d   | e   | f   |
+| g   | h   | i   |
